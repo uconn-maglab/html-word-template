@@ -33,7 +33,7 @@ comment {
     display: inline;
     position: relative;
 }
-comment .commenttext {
+comment ctext /*.commenttext*/ {
     visibility: hidden;
     text-indent: 0;
     width: 120px;
@@ -51,7 +51,7 @@ comment .commenttext {
 comment:hover {
     background-color: rgba(217, 179, 255, 0.8);
 }
-comment:hover .commenttext {
+comment:hover ctext /*.commenttext*/ {
     visibility: visible;
 }
 

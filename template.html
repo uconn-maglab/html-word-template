@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document Page Template</title>
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="page">
+            <div class="text">
+                <h1><!-- First-level heading --></h1>
+                <p>
+                    <!-- This is a paragraph <comment><ctext>This is a comment.</ctext>with a comment.</comment>  -->
+                </p>
+
+                <h2><!-- Second-level heading, and so on... --></h2>
+                <p>
+                    <!-- This is another paragraph. -->
+                </p>
+
+                <h3></h3>
+                <p class="noindent">
+                    <!-- This paragraph will be preceded by a third-level heading, which is already indented. -->
+                    <!-- Therefore, the paragraph itself does not have an additional indentation. -->
+                    <!-- This is also useful for picking up after a page break. -->
+                </p>
+            </div>
+        </div> <!-- End of the first page. -->
+
+        <div class="page"><!-- Start of a new page. -->
+            <div class="text">
+                <p class="noindent">
+                    <!-- If this paragraph is continuing from the last page, use class="noindent" -->
+                </p>
+            </div>
+        </div> <!-- End of the second page. -->
+
+    </div> <!-- End of document. -->
+</body>
+</html>
