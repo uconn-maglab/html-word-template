@@ -1,0 +1,90 @@
+body {
+    background-color: #b2b2b2;
+    /*font-size: 12px;*/
+    font-size: 16px; /* 3pt is 4px */
+    font-family: "Times New Roman", Times, serif;   /*"Computer Modern",*/
+}
+
+.container {
+    margin-bottom: 80px;
+}
+
+.page {
+    width: 8.5in;
+    height: 11in;
+    background-color: #ffeead;
+    border: solid 1px #f7e6a1;
+    box-shadow: 3px 3px 3px #888888;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.text {
+    margin: 1in;
+    line-height: 108%;
+    width: 6.5in;
+    height: 9in;
+    border: solid 1px #dbc670;
+}
+
+comment {
+    background-color: rgba(217, 179, 255, 0.4);  /*#b3d9ff;*/ /*#D5E2DA;*/
+    border-bottom: dashed 1px #484848;
+    display: inline;
+    position: relative;
+}
+comment .commenttext {
+    visibility: hidden;
+    text-indent: 0;
+    width: 120px;
+    background-color: #484848;
+    color: #f5f5ef;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px; /* Use half of the width (120/2 = 60), to center the comment - W3Schools */
+}
+comment:hover {
+    background-color: rgba(217, 179, 255, 0.8);
+}
+comment:hover .commenttext {
+    visibility: visible;
+}
+
+/* APA Style */
+p {
+    text-indent: 0.5in;
+    margin: 0;
+}
+p.noindent {
+    text-indent: 0;
+    display: inline;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: inherit;
+    margin: 0;
+    padding: 0;
+}
+h2, h3, h4, h5 {
+    text-align: left;
+    font-weight: bold;
+    font-size: inherit;
+    margin: 0;
+    padding: 0;
+}
+h3, h4, h5 {
+    display: inline;
+    margin-left: 0.5in;
+}
+h4, h5 {
+    font-style: italic;
+}
+h5 {
+    font-weight: normal;
+}
