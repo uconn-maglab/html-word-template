@@ -14,6 +14,7 @@ A template to format HTML to look like the text was written in a word processor.
 * Guidelines to tell you where to break up the text into a new page
 * When writing in HTML, **you can comment out any parts you're hesitant about**, hiding them from the document preview without having to delete them altogether
 * Speaking of comments, you can add revision-style comments with the `<comment></comment>` wrapper (for the text you're commenting on) and the `<ctext></ctext>` wrapper for the comment itself
+* Keeping track of changes is much easier for HTML files than for word-processed files
 
 ## Future Goals
 
