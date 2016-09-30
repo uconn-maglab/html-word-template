@@ -3,7 +3,7 @@
 A template to let you write in HTML and have it look like a Word document.
 
 Forked from my personal account for ease of access.  
-Feel free to use and edit it as you'd like! (MIT License, copyright (C) 2016 Rachael Steiner, meaning **you are free to use, modify, and distribute it** as long as you keep the copyright notice. See [LICENCE](https://github.com/uconn-maglab/html-word-template/blob/master/LICENSE) for more detail.)
+Feel free to use and edit it as you'd like! (MIT License, copyright (C) 2016 Rachael Steiner, meaning **you are free to use, modify, and distribute it** as long as you keep the copyright notice. See [LICENSE](https://github.com/uconn-maglab/html-word-template/blob/master/LICENSE) for more detail.)
 
 ## For more information
 
