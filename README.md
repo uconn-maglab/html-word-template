@@ -3,11 +3,11 @@
 A template to let you write in HTML and have it look like a Word document.
 
 Forked from my personal account for ease of access.  
-Feel free to use and edit it as you'd like! (MIT License, copyright (C) 2016 Rachael Steiner, meaning **you are free to use, modify, and distribute it** as long as you keep the copyright notice. See [LICENCE](https://github.com/uconn-maglab/html-word-template/LICENSE) for more detail.)
+Feel free to use and edit it as you'd like! (MIT License, copyright (C) 2016 Rachael Steiner, meaning **you are free to use, modify, and distribute it** as long as you keep the copyright notice. See [LICENCE](https://github.com/uconn-maglab/html-word-template/blob/master/LICENSE) for more detail.)
 
 ## For more information
 
-See the [web site](http://cranndarach.github.io/html-word-template) for information about how to use it. You don't need to know CSS---or even much HTML---to make use of it.
+See the [web site](http://cranndarach.github.io/html-word-template) for information about how to use it. You don't need to know CSS---or even much HTML---to make use of it. Let me know if you want help with it!
 
 ## Why it's cool:
 
