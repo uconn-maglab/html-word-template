@@ -1,8 +1,15 @@
 # HTML Word Template
 
-A template to format HTML to look like the text was written in a word processor.
+A template to let you write in HTML and have it look like a Word document.
 
-### Why it's cool:
+Forked from my personal account for ease of access.  
+Feel free to use and edit it as you'd like! (MIT License, copyright (C) 2016 Rachael Steiner, meaning **you are free to use, modify, and distribute it** as long as you keep the copyright notice. See [LICENCE](https://github.com/uconn-maglab/html-word-template/LICENSE) for more detail.)
+
+## For more information
+
+See the [web site](http://cranndarach.github.io/html-word-template) for information about how to use it. You don't need to know CSS---or even much HTML---to make use of it.
+
+## Why it's cool:
 
 * Save default styles via stylesheets
     * Especially helpful for accessibility control: e.g., if your eyes are sensitive to bright-white pages
@@ -15,9 +22,3 @@ A template to format HTML to look like the text was written in a word processor.
 * When writing in HTML, **you can comment out any parts you're hesitant about**, hiding them from the document preview without having to delete them altogether
 * Speaking of comments, you can add revision-style comments with the `<comment></comment>` wrapper (for the text you're commenting on) and the `<ctext></ctext>` wrapper for the comment itself
 * Keeping track of changes using git is much easier for HTML files than for word-processed files
-
-## Future Goals
-
-It is feature-light right now, because I made it so that I could write a fellowship application...which I should probably be writing.
-
-But, soon I will post some documentation---probably a gh-pages site---so that you can use it even if you're unfamiliar with HTML or CSS.
